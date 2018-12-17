@@ -105,5 +105,3 @@ for i in range(0,len(five)):
       fill=True,
       fill_color='black'
    ).add_to(fifthmap)
-
-fifthmap.save(outfile= "five.html")
